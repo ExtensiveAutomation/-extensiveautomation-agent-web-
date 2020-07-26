@@ -22,7 +22,7 @@
 
 import setuptools
 
-VERSION="1.0.3"
+VERSION="1.0.4"
 
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()

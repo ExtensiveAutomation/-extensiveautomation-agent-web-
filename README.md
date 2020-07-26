@@ -9,7 +9,13 @@ Installing from pypi
     pip install extensiveautomation_agent_plugin_curl
     ```
 
-2. Now you can deploy this plugin with the option `--web`
+2. (Optional) only on Linux, you must also install the `curl` command
+
+    ```bash
+    yum install curl
+    ```
+    
+3. Now you can deploy this plugin with the option `--web`
 
 
     ```bash
